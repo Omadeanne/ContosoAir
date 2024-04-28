@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/coilswebacademy/GIthub%20integration%20with%20pipelines/_apis/build/status%2FGIthub%20integration%20with%20pipelines?branchName=master)](https://dev.azure.com/coilswebacademy/GIthub%20integration%20with%20pipelines/_build/latest?definitionId=93&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
